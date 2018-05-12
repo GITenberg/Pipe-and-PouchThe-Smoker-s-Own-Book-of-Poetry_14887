@@ -10,6 +10,8 @@ covers:
 - cover_type: archival
   image_path: 14887-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14887#Pipe-and-PouchThe-Smoker-s-Own-Book-of-Poetry
 gutenberg_issued: '2005-02-03'
 gutenberg_type: Text
 identifiers:
