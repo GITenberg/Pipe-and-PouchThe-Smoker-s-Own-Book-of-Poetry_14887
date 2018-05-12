@@ -1,0 +1,26 @@
+_repo: Pipe-and-PouchThe-Smoker-s-Own-Book-of-Poetry_14887
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Knight, Joseph
+    birthdate: 1845
+    gutenberg_agent_id: '38267'
+    url: http://www.gutenberg.org/2009/agents/38267
+covers:
+- cover_type: archival
+  image_path: 14887-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2005-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Tobacco -- Poetry'
+- !lcc 'GT'
+title: 'Pipe and Pouch: The Smoker''s Own Book of Poetry'
+url: http://www.gutenberg.org/ebooks/14887
